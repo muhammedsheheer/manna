@@ -29,7 +29,7 @@ const About: React.FC = () => {
           <div className="flex flex-col gap-3 pl-8">
             <p className="w-full max-w-[330px] font-inter text-sm font-[300] tracking-[1px] text-[#fff] md:text-right">
               At Manna, it’s not just about food—it’s about bringing people
-              together. Whether you're dining in with friends, grabbing a
+              together. Whether you`re dining in with friends, grabbing a
               takeaway, or ordering for a family gathering, we’re here to make
               your experience feel like home. So come hungry, leave happy, and
               taste the love in every bite.
@@ -61,7 +61,7 @@ const About: React.FC = () => {
             <p className="w-full max-w-[330px] font-inter text-sm font-[300] tracking-[1px] text-[#fff]">
               Welcome to Manna Food Corner, where the rich, aromatic flavors of
               Kerala meet the heart of Northampton. Since our humble beginnings,
-              we've built a loyal community of food lovers who return time and
+              we`ve built a loyal community of food lovers who return time and
               time again for the authenticity and warmth that define our
               kitchen.
             </p>
