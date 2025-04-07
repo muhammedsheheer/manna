@@ -91,13 +91,12 @@ const Contact = ({}) => {
                   </div>
                 </div>
                 <div className="flex flex-col gap-4">
-                  <Link href={""} target="_blank">
+                  <Link href={"https://g.co/kgs/Qptk8qA"} target="_blank">
                     <p className="text-[#fff]">
-                      9 Barlow Moor Rd, Didsbury, Manchester
-                      <br /> M20 6TN, United Kingdom
+                      48 Duke St, Northampton <br /> NN1 3BA, United Kingdom
                     </p>
                   </Link>
-                  <Link href={""} target="_blank">
+                  <Link href={"https://g.co/kgs/Qptk8qA"} target="_blank">
                     <p className="flex items-center gap-2 text-sm text-[#fff]">
                       <span>Get Direction</span>
                       <ArrowRight className="text-[#fff]" />
@@ -122,19 +121,27 @@ const Contact = ({}) => {
                   </div>
                 </div>
                 <div className="flex flex-col gap-4">
-                  <Link href="tel:+01614230494" className="text-[#fff]">
-                    0161 423 04 94{" "}
+                  <Link href="tel:+447923886433" className="text-[#fff]">
+                    447923886433
                   </Link>
                 </div>
               </div>
               <div className="flex items-center justify-start gap-4">
-                <Link href={""} target="_blank">
+                <Link
+                  href={"https://www.instagram.com/manna.food.corner"}
+                  target="_blank"
+                >
                   <Icons.instagram className="text-[#fff]" />
                 </Link>
-                <Link href={""} target="_blank">
+                <Link
+                  href={
+                    "https://www.tripadvisor.in/Restaurant_Review-g186349-d5817644-Reviews-Manna_Food_Corner-Northampton_Northamptonshire_England.html"
+                  }
+                  target="_blank"
+                >
                   <Icons.unknown className="text-[#fff]" />
                 </Link>
-                <Link href={""} target="_blank">
+                <Link href={"https://g.co/kgs/Qptk8qA"} target="_blank">
                   <Icons.google className="text-[#fff]" />
                 </Link>
                 {/* <Link href='https://www.facebook.com/Istanbulwoolton/'>
@@ -220,7 +227,7 @@ const Contact = ({}) => {
                   </div>
                   <div className="flex w-full flex-col pt-7 lg:flex-row">
                     <Button
-                      className="font-bai w-full rounded-2xl border border-[#fff] bg-[#fff] py-6 text-[#C93732] hover:bg-[#222] hover:text-[#fff]"
+                      className="font-bai w-full rounded-2xl border border-[#fff] bg-[#fff] py-6 text-[#000] hover:bg-[#222] hover:text-[#fff]"
                       disabled={bookTableMutation.isPending}
                     >
                       Contact US
@@ -232,7 +239,7 @@ const Contact = ({}) => {
           </div>
         </div>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2260.19196832903!2d-2.2318719!3d53.4175839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb3df9225b6c3%3A0x365fe3576a0f6abb!2sLevant%20Elixir%20of%20Co-Existence%20Restaurant!5e1!3m2!1sen!2sin!4v1742976588803!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19543.96271746916!2d-0.9116541652343907!3d52.2434683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48770ec47edbfb2f%3A0x8d3b71c090a29a61!2sManna%20food%20corner%20Indian-Kerala%20Kitchen!5e0!3m2!1sen!2sin!4v1744032098319!5m2!1sen!2sin"
           style={{ border: 0 }}
           allowFullScreen
           loading="lazy"

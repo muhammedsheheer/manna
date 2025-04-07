@@ -14,7 +14,7 @@ const Follow: React.FC = () => {
 
           <Link
             className="rounded-none bg-transparent font-italiana text-2xl font-[400] uppercase text-[#323232] md:w-[700px] md:text-5xl md:tracking-[5px]"
-            href={""}
+            href={"https://www.instagram.com/manna.food.corner"}
             target="_blank"
           >
             @manna.food.corner

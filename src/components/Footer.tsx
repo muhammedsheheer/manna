@@ -32,10 +32,9 @@ const Footer = ({}) => {
                     <Link
                       className="flex flex-col text-center font-inter text-xs font-[400] uppercase text-[#fff] md:text-start md:text-sm"
                       target="_blank"
-                      href={""}
+                      href={"https://g.co/kgs/Qptk8qA"}
                     >
-                      48 DUKE STREET, <br /> Northampton, <br />{" "}
-                      Northamptonshire NN13BA <br /> Northampton
+                      48 Duke St, Northampton <br /> NN1 3BA, United Kingdom
                     </Link>
                   </span>
                   <span>
@@ -46,28 +45,36 @@ const Footer = ({}) => {
                       +44 7923 886433
                     </Link>
                   </span>
-                  <span>
+                  {/* <span>
                     <Link
                       className="font-poppins text-xs font-[500] uppercase text-[#fff] md:text-sm"
                       href={"mailto:konak.wilmslow@gmail.com"}
                     >
                       konak.wilmslow@gmail.com
                     </Link>
-                  </span>
+                  </span> */}
                 </div>
               </div>
               <div className="flex flex-row items-center gap-2 md:gap-4 md:pt-6">
-                <Link href={""} target="_blank">
+                <Link
+                  href={"https://www.instagram.com/manna.food.corner"}
+                  target="_blank"
+                >
                   <Icons.instagram className="text-[#fff]" />
                 </Link>
                 {/* <Link href={""} target="_blank">
                   <Icons.unknown className="text-[#fff]" />
                 </Link> */}
-                <Link href={""} target="_blank">
+                <Link href={"https://g.co/kgs/Qptk8qA"} target="_blank">
                   <Icons.google className="text-[#fff]" />
                 </Link>
-                <Link href={""} target="_blank">
-                  <Icons.facebook className="text-[#fff]" />
+                <Link
+                  href={
+                    "https://www.tripadvisor.in/Restaurant_Review-g186349-d5817644-Reviews-Manna_Food_Corner-Northampton_Northamptonshire_England.html"
+                  }
+                  target="_blank"
+                >
+                  <Icons.unknown className="text-[#fff]" />
                 </Link>
               </div>
             </div>
@@ -125,12 +132,12 @@ const Footer = ({}) => {
                   Monday - SATURDAY
                 </span>
                 <span className="font-poppins text-sm font-[700] uppercase tracking-[1.96px] text-[#fff]">
-                  8 AM - 5 PM{" "}
+                  12 PM - 10 PM{" "}
                 </span>
               </div>
               <div className="h-full w-full border-b-[1px] border-b-[#fff]" />
 
-              <div className="flex w-full flex-row gap-4 md:w-[400px] md:justify-between">
+              {/* <div className="flex w-full flex-row gap-4 md:w-[400px] md:justify-between">
                 <span className="font-poppins text-sm font-[700] uppercase tracking-[1.96px] text-[#fff]">
                   Sunday
                 </span>
@@ -138,7 +145,7 @@ const Footer = ({}) => {
                   9 AM - 4:30 PM{" "}
                 </span>
               </div>
-              <div className="h-full w-full border-b-[1px] border-b-[#fff]" />
+              <div className="h-full w-full border-b-[1px] border-b-[#fff]" /> */}
             </div>
           </div>
         </div>

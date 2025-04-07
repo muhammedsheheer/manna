@@ -19,12 +19,15 @@ const JoinUs = ({}) => {
             Unforgettable Feast
           </h1>
           <p className="max-w-[450px] text-center font-[600] leading-[160%] text-[#ffff]">
-            Whether it`s a cozy dinner or a grand gathering, Levant invites you
-            to embark on an extraordinary culinary journey. From authentic
-            Middle Eastern flavors to hand-selected ingredients, every dish is a
-            tribute to our rich heritage and passion for excellence. Immerse
-            yourself in an experience where tradition meets innovation, and
-            every bite is a celebration of taste and culture.
+            Whether you're gathering for an intimate evening or a lively
+            celebration, Manna invites you to savor a dining experience like no
+            other. Rooted in the rich traditions of Middle Eastern and
+            Mediterranean cuisine, each dish is crafted with handpicked
+            ingredients and heartfelt care.
+            <br />
+            Step into a world where flavor tells a story, heritage meets
+            creativity, and every bite is a celebration of culture, passion, and
+            perfection.
           </p>
 
           <Link href={"/table-booking"}>

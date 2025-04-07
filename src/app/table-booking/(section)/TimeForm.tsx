@@ -200,7 +200,7 @@ const TimeForm: FC<TimeFormProps> = ({ mainform, setpage }) => {
                       <FormControl>
                         <Button
                           variant={"outline"}
-                          className={`h-12 w-full justify-start border-[#fff] bg-transparent text-left font-normal text-[#fff] hover:bg-[#C93732] hover:text-[#fff]`}
+                          className={`h-12 w-full justify-start border-[#fff] bg-transparent text-left font-normal text-[#fff] hover:bg-[#000] hover:text-[#fff]`}
                         >
                           <CalendarIcon className="mr-2 h-4 w-4 text-[#fff]" />
                           {field.value ? (
@@ -283,7 +283,7 @@ const TimeForm: FC<TimeFormProps> = ({ mainform, setpage }) => {
                     onClick={() => form.setValue("time", time)}
                     className={cn(
                       "flex h-full w-full cursor-pointer items-center justify-center border-[1px] border-[#fff] py-4 text-[#fff]",
-                      form.watch("time") === time && "border-[#C93732]",
+                      form.watch("time") === time && "border-[#fff]",
                     )}
                   >
                     {time}
@@ -293,7 +293,7 @@ const TimeForm: FC<TimeFormProps> = ({ mainform, setpage }) => {
             </div>
           )}
           <Button
-            className="w-fit border border-[#fff] bg-[#fff] px-6 py-6 text-[#C93732] hover:bg-[#222] hover:text-[#fff]"
+            className="w-fit border border-[#fff] bg-[#fff] px-6 py-6 text-[#000] hover:bg-[#222] hover:text-[#fff]"
             disabled={disable}
           >
             Book A Table

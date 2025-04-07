@@ -5,7 +5,7 @@ const BavetteStory = ({}) => {
     <section className="relative flex h-full w-full items-center justify-center bg-[#121212] p-4 lg:py-16">
       <div className="flex h-full w-full flex-col items-center justify-center gap-11 bg-[#121212]">
         <h2 className="font-oswald text-center text-8xl text-[#fff] md:left-[15%] md:text-8xl">
-          The Levant
+          The Manna
           <br />
           Story
         </h2>
@@ -26,22 +26,22 @@ const BavetteStory = ({}) => {
               to Perfection{" "}
             </h1>
             <p className="max-w-[450px] text-center font-light leading-[160%] text-[#fff] md:text-start">
-              What began as a vision—to bring the soul of Middle Eastern and
-              Mediterranean cuisine to life—has evolved into Levant, a culinary
-              destination where tradition meets innovation. Founded with a deep
-              passion for authenticity, Levant was born from the desire to
-              create dishes that are more than just meals—they are experiences.
+              What began as a dream—to bring the heart and soul of Middle
+              Eastern and Mediterranean cuisine to the table—has blossomed into
+              Manna, a culinary journey where heritage meets creativity. Born
+              from a deep love for authentic flavors, Manna was created to offer
+              more than just food—it’s about crafting memorable experiences.
               <br />
-              From our humble beginnings to becoming a haven for food lovers,
-              our commitment to quality, rich flavors, and warm hospitality has
-              never wavered. Every ingredient is carefully sourced, every spice
-              tells a story, and every dish is a tribute to the culinary
-              heritage we celebrate.
+              From our modest origins to becoming a cherished destination for
+              food enthusiasts, our passion for quality, flavor, and heartfelt
+              hospitality remains unwavering. Every ingredient is chosen with
+              care, every spice echoes tradition, and every dish is a
+              celebration of the rich culinary culture we honor.
               <br />
-              At Levant, we don`t just serve food—we craft unforgettable
-              moments. As we continue to grow, our mission remains the same: to
-              blend tradition with creativity and offer an extraordinary dining
-              experience that honors the essence of Middle Eastern flavors.
+              At Manna, we don’t just serve dishes—we create lasting
+              impressions. As we grow, our purpose stays true: to blend timeless
+              traditions with innovative spirit, offering a dining experience
+              that captures the essence of Middle Eastern cuisine.
             </p>
           </div>
         </div>

@@ -11,18 +11,17 @@ const Hero = ({}) => {
           <div className="flex w-full items-center justify-center lg:w-1/2">
             <div className="mt-20 flex flex-col items-start gap-6 lg:mt-0 lg:w-8/12">
               <h1 className="font-oswald text-5xl font-semibold leading-[66px] text-[#fff] lg:text-6xl">
-                Welcome to Levant
+                Welcome to Manna
                 <br /> A Symphony of Flavors
               </h1>
               <p className="font-manrope font-normal text-[#fff]">
-                At Levant, every dish is a celebration of rich traditions and
-                bold flavors. From the finest ingredients to time-honored
-                recipes, we bring you an unforgettable dining experience
-                inspired by the heart of Middle Eastern and Mediterranean
-                cuisine. Whether you`re indulging in perfectly grilled kebabs,
-                savoring aromatic spices, or treating yourself to a sweet
-                delight, each bite tells a story of authenticity, passion, and
-                culinary mastery.
+                At Manna, every dish is a tribute to timeless traditions and
+                vibrant tastes. Crafted with the finest ingredients and inspired
+                by authentic Middle Eastern and Mediterranean recipes, we offer
+                a dining experience that’s rich in culture and flavor. Whether
+                you're enjoying perfectly grilled kebabs, savoring the warmth of
+                aromatic spices, or indulging in a sweet delicacy, every bite at
+                Manna reflects our passion, authenticity, and culinary artistry.
               </p>
             </div>
           </div>
